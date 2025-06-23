@@ -1,0 +1,7 @@
+﻿Order ID,Region,Category,Product,Sales,Quantity,Order Date
+1001,North,Electronics,Mobile,15000,2,10-Jan-23
+1002,South,Clothing,Jeans,3000,3,15-Jan-23
+1003,East,Grocery,Rice,800,5,20-Jan-23
+1004,North,Electronics,Laptop,50000,1,25-Jan-23
+1005,West,Grocery,Flour,1000,4,05-Feb-23
+1006,East,Clothing,Shirt,2000,2,10-Feb-23
