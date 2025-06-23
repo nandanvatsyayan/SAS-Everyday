@@ -1,0 +1,7 @@
+﻿Subject ID,Treatment,AE Term,SOC,Severity,Serious,AE Start Date
+101,Drug A,Nausea,Gastrointestinal,Mild,No,12-Jan-23
+102,Placebo,Headche,Nervous System,Moderate,No,13-Jan-23
+103,Drug A,Vomiting,Gastrointestinal,Severe,Yes,15-Jan-23
+104,Drug A,Dizziness,Nervous System,Mild,No,20-Jan-23
+105,Placebo,Fatigue,General Disorder,Moderate,No,22-Jan-23
+106,Drug A,Diarrhea,Gastrointestinal,Moderate,Yes,25-Jan-23
