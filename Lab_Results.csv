@@ -1,0 +1,6 @@
+﻿Subject_ID,Test_Date,Lab_Test,Result,Units,Normal_Low,Normal_High
+101,10-Jan-23,Hemoglobin,11.5,g/dL,13.5,17.5
+101,10-Jan-23,WBC,6,10^3 / uL,4,10
+102,12-Jan-23,Hemoglobin,14,g/dL,12,16
+103,15-Jan-23,WBC,11,10^3 / uL,4,10
+104,18-Jan-23,Hemoglobin,13.5,g/dL,12,16
